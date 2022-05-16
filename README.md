@@ -69,7 +69,7 @@ Quando for necessário fazer a orquestração das aplicações, o arquivo `docke
   <summary><strong>🗓 Data de Entrega</strong></summary><br />
 
 * Este projeto é individual
-* São `X` dias de projeto
+* São `2` dias de projeto
 * Data para entrega final do projeto: `25/05/2022 14:00`
 
 </details>
