@@ -1,0 +1,1 @@
+docker run --name 02images -d -it -p 3000:80 nginx:1.21.3-alpine
